@@ -28,6 +28,7 @@ In this project I want to answer following questions:
 2. What are the highest and lowest revenue-generating products?
 3. How many unique customers are in the dataset?
 
+❗ This project is still in progress.
 ***
 
 
