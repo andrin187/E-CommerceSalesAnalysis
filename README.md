@@ -1,5 +1,5 @@
 # 🛍️ E-CommerceSalesAnalysis
-E-Commerce Sales Analysis: Identifying Revenue Trends &amp; Customer Insights
+### E-Commerce Sales Analysis: Identifying Revenue Trends &amp; Customer Insights
 
 ## 💡 Background
 This project will use the following E-Commerce dataset from Kaggle: [link](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
