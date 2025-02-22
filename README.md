@@ -19,14 +19,14 @@ In this project I want to answer following questions:
 
 **Customer Behaviour Analysis**
 1. What are the top-selling products based on quantity sold?
-2. Which products generate the highest revenue?
-3. What is the average order value per customer?
-4. Are there seasonal trends or peak shopping periods?
+2. What is the average order value per customer?
+5. How many unique customers are in the dataset?
 
 **Sales Performance & Revenue Analysis**
-1. What is the total revenue generated over a specific period?
-2. What are the highest and lowest revenue-generating products?
-3. How many unique customers are in the dataset?
+1. Are there seasonal trends or peak shopping periods?
+2. What is the total revenue generated over a specific period?
+3. Which products generate the highest revenue?
+4. What are the highest and lowest revenue-generating products?
 
 ❗ This project is still in progress.
 ***
