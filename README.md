@@ -28,7 +28,6 @@ In this project I want to answer following questions:
 3. Which products generate the highest revenue?
 4. What are the highest and lowest revenue-generating products?
 
-❗ This project is still in progress.
 ***
 
 
