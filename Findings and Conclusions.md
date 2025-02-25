@@ -42,3 +42,5 @@
 7. What are the highest and lowest revenue-generating products?
 
    The highest revenue-generating product was found prior. The lowest generating product is the Paper Pocket Traveling Fan generating less than €1. 
+
+***
